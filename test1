@@ -2,4 +2,5 @@ Main()
 {
 Print("helloWorld");
 print("ODS");
+scan("Welcome to ODS");
 }
